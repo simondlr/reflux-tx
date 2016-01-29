@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/consensys/reflux-tx",
   "dependencies": {
-    "localforage": "1.2.7",
+    "localforage": "1.3.3",
     "lodash": "3.9.x",
     "object-assign": "*",
     "reflux": "^0.3.0",
